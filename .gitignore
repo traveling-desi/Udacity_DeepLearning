@@ -1,0 +1,6 @@
+*.gz
+Deep-Learning/image-classification/*.p
+Deep-Learning/intro-to-tensorflow/*.zip
+Deep-Learning/intro-to-tensorflow/*.pickle
+*/.ipynb_checkpoints/*
+flappybird/*
