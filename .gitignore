@@ -4,3 +4,4 @@ Deep-Learning/intro-to-tensorflow/*.zip
 Deep-Learning/intro-to-tensorflow/*.pickle
 */.ipynb_checkpoints/*
 flappybird/*
+Deep-Learning/embeddings/checkpoints/*

@@ -209,7 +209,7 @@ def test_build_rnn(build_rnn):
         test_rnn_size = 256
         test_rnn_layer_size = 2
         test_cell = rnn.MultiRNNCell([rnn.BasicLSTMCell(test_rnn_size)] * test_rnn_layer_size)
-
+	
         test_inputs = tf.placeholder(tf.float32, [None, None, test_rnn_size])
         outputs, final_state = build_rnn(test_cell, test_inputs)
 
