@@ -5,3 +5,6 @@ Deep-Learning/intro-to-tensorflow/*.pickle
 */.ipynb_checkpoints/*
 flappybird/*
 Deep-Learning/embeddings/checkpoints/*
+Deep-Learning/gan_mnist/.ipynb_checkpoints/
+Deep-Learning/gan_mnist/checkpoints/
+Deep-Learning/language-translation/.ipynb_checkpoints
